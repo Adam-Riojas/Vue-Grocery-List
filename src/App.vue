@@ -20,7 +20,7 @@
 
 <template>
   <main>
-    <h1 class="title"> Vue Grocery List: </h1>
+    <h1 class="title"> Adam's Vue Grocery List: </h1>
     <form class="newGroceryForm" @submit.prevent="addGrocery">
       <input
         id="newGrocery"
